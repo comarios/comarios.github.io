@@ -38,33 +38,23 @@ html {
     font-size: 30px;
     text-decoration: none;
 }
-#back2Top:hover {
-    background-color: #337AB7;
-    color: #FFF;
-}
 .welcome-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
     background: #fff;
 }
-.about-section {
+.sig2024-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
     background: #EFDECD;
 }
-.whatwedo-section {
+.sig2023-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
     background: #fff;
-}
-.contact-section {
-    height: 100%;
-    padding-top: 150px;
-    text-align: center;
-    background: #EFDECD;
 }
 .navbar-default .navbar-nav > li > a:hover {
 	color: #333;
